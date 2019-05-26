@@ -1,1 +1,1 @@
-worker: python location_bot.py
+bot: python location_bot.py
